@@ -34,7 +34,7 @@ The graph below shows that most of the checkout times are under one hour in leng
 ### Checkout Times by Gender
 ![](https://github.com/Aigerim-Zh/Bikesharing/blob/main/Visualizations/Checkout_Times_by_Gender.png) 
 
-From the graph, we can see all three genders tend to checkout in less than one hour. It also illustrates that male-identifying users bike much more than female and unknown genders.
+From the graph, we can see all three genders tend to checkout in less than one hour. It also illustrates that male-identifying users have significantly more bike trips than female and unknown genders.
 
 ## Trips by Weekday for Each Hour
 
@@ -74,7 +74,7 @@ In general, the number of trips increases with age until 1990, after which it si
 
 # Summary
 Based on the analysis above, I can make the following high-level summary:
-- Most bike users are subscribing to male-identifying customers. I think it is important to investigate why it is the case and make efforts in attracting female customers.
+- Most bike users are subscribing male-identifying customers. I think it is important to investigate why it is the case and make efforts in attracting female customers.
 - The traffic is heavily concentrated in areas with limited parking spaces and a large number of tourists.
 - The busiest hours from Monday to Friday are morning and evening commute hours. 
 - The busiest hours during weekends are in the middle of the day. 
